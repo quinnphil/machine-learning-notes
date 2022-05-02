@@ -5,12 +5,16 @@ AWS Certified Machine Learning Specialty
 - Take AWS MLS exam before the end of 2022
 - Gain a broad understanding of ML, techniques and algorithms
 - Complete Andrew Ng course
-- Complte Google Course (same as Justin)
+- Coursera Tensorflow course
+- Google Tensorflow certification
 
 ## TODO
 
 [ ] Read: https://developers.google.com/machine-learning/glossary/
 [ ] Review https://experiments.withgoogle.com/collection/ai
+[ ] Review Google Tensorflow Developer Certificate
+[ ] Review Coursera Deeplearning AI Tensorflow Developer course
+
 
 ### 1. Tutorial Dojo Test results
 
